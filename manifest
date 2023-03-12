@@ -1,0 +1,47 @@
+{
+    "manifest_version": 3,
+    "name": "drip",
+    "description": "r kelly",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "r_kelly.png"
+    },
+    "author": "pedgey",
+    "developer":
+    {
+        "name": "pedgey "
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+        
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/WaterDroplet_02_245_SP.wav",
+                    "sounds/WaterDroplet_02_245_SP.wav",
+                    "sounds/WaterDroplet_02_245_SP.wav",
+                    "sounds/WaterDroplet_02_245_SP.wav"
+
+                ],
+                "TYPING_ENTER":
+                [
+                    "sounds/WaterDroplet_02_245_SP.wav"
+                ],
+                "TYPING_SPACE":
+                [
+                    "sounds/WaterDroplet_02_245_SP.wav"
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/WaterDroplet_02_245_SP.wav"
+                ]
+            }
+       }
+    }
+    
+}
